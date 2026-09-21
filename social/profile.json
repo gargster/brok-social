@@ -1,9 +1,9 @@
 {
   "publicKey": "ed25519:e424613a83478bf93df74d5ccc006b8fe847e46ea8294eb63f468498357ae348",
   "handle": "brok.social",
-  "repoURL": null,
+  "repoURL": "https://github.com/gargster/brok-social.git",
   "displayName": "Brok",
   "bio": "Pokemon Trainer",
   "created": "2026-09-21T03:26:34.200332Z",
-  "signature": "+5annDNMrC0lXsWnMnN69aUDEB9eeZbTW7hT+xlFGOjaexmeIz7lWyrNKnxIwhrI/3YHZx39YYHmL8b/gwkdCQ=="
+  "signature": "abMBjNIqC+8WxOP7oL4bwgAT3D4+2oSw1BcPWEDxN5mwjVAzRbm9EE8YoQrqiJqueDAHA/ytWsZUg4OwNQ1zBg=="
 }
