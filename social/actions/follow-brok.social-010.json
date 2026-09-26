@@ -1,0 +1,8 @@
+{
+  "id": "follow-brok.social-010",
+  "type": "follow",
+  "author": "ed25519:e424613a83478bf93df74d5ccc006b8fe847e46ea8294eb63f468498357ae348",
+  "created": "2026-09-26T01:11:10.958305Z",
+  "target": "ed25519:24efa43e1bd3058191a5ea23953dcfe3bdb91eb9c298cec98a633aa890b63ae8",
+  "signature": "s+t7OY9y44tWVeJolVQb7xMhCT04WqgELAMi4ps3tTfVqvbz07vMQafXNHw4yXx3wJssTytKz2xXBld+2APSAA=="
+}
